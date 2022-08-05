@@ -5,7 +5,7 @@ Mini-projects for the residential training. As part of the EANBiT Residential tr
 ## Projects
 1. Project 1: [Nextflow Pipeline for ONT Long Reads Metatrascriptomic data analysis](Project_1.md)
 2. Project 2: [Stingless bees Metabarcoding](Project_2.md)
-3. Project 3: [Long Read Virus Assembly](Project_3.md)
+3. Project 3: [Long Reads Whole Genome Assembly - E Coli](Project_3.md)
 4. Project 4: [Sea turtle Immunogenetics](Project_4.md)
 5. Project 5: [Antelope Phylogenetics](Project_5.md)
 6. Project 6: [Chelonid Alphaherpervirus 5 Phylogeny](Project_6.md)
